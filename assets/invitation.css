@@ -404,11 +404,12 @@
 
 .card-welcome-text {
     font-family: Hanuman;
-    font-size: 25px
+    font-size: 25px;
+    font-weight: bold;
 }
 
 .card-welcome-date {
-    font-size: 25px;
+    font-size: 22px;
     font-family: Hanuman;
 }
 
