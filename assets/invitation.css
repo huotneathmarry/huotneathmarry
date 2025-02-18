@@ -5,7 +5,7 @@
 
 .vni {
     font-family: wedding-font-vni;
-    color: #cc0000;
+    color: #007e9f;
 }
 
 #wrapper {
@@ -459,6 +459,10 @@
 
 .card-information {
     padding-top: 10px;
+}
+
+.detail-time {
+    font-size: 21px;
 }
 
 .card-wrap .card-header-name {
