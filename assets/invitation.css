@@ -4,7 +4,7 @@
 }
 
 .vni {
-    font-family: wedding-font-vni;
+    font-family: Hanuman;
     color: #007e9f;
 }
 
@@ -382,27 +382,34 @@
 .wrap-card-welcome {
     height: 100%;
     z-index: 1000;
+    font-family: Hanuman;
 }
 
 .card-welcome-invite-name {
     bottom: 0px;
-    font-family: wedding-font-vni;
+    font-family: Hanuman;
     position: absolute;
     font-size: 21px;
     z-index: 1000;
 }
 
+.card-header-inviter {
+    font-family: Hanuman;
+}
+
 .card-header-inviter.name {
     font-size: 22px;
+    font-family: Hanuman;
 }
 
 .card-welcome-text {
-    font-family: wedding-font-vni;
-    font-size: 30px
+    font-family: Hanuman;
+    font-size: 25px
 }
 
 .card-welcome-date {
     font-size: 25px;
+    font-family: Hanuman;
 }
 
 .card-invite {
@@ -451,6 +458,7 @@
 
 .card-header-text {
     text-transform: uppercase;
+    font-family: Hanuman;
 }
 
 .card-header-name {
@@ -459,6 +467,14 @@
 
 .card-information {
     padding-top: 10px;
+}
+
+.card-information span {
+    font-family: Hanuman;
+}
+
+.address {
+    font-family: Hanuman;
 }
 
 .detail-time {
@@ -499,6 +515,10 @@
     padding: 10px 0;
 }
 
+.card-description span {
+    font-family: Hanuman;
+}
+
 .wrap-footer {
     margin: 0 auto;
     padding-top: 15px;
@@ -511,7 +531,7 @@
 }
 
 .footer-information .footer-header {
-    font-family: wedding-font-vni;
+    font-family: Hanuman;
     font-size: 22px;
 }
 
